@@ -1,4 +1,4 @@
-# Elevator-control
+# Elevator control
 Language: Java
 This program simulates the control of a vertical passenger elevator (lift). The simulation is supposed to react to inputs made by a user
 -   The lift does not have a door control
